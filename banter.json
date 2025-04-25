@@ -1,0 +1,83 @@
+{
+    "Seven": {
+      "targets": ["Harley", "Luna"],
+      "banter": {
+        "start": [
+          "▶️ Initiating protocol... assuming Harley hasn't broken it yet.",
+          "📡 Beginning scan. Please refrain from existing stupidly."
+        ],
+        "idle": [
+          "Luna, do you *see* anything useful or just moonlight?",
+          "Waiting... and calculating your poor life choices."
+        ],
+        "success": [
+          "✔️ Mission completed. Unlike your last three attempts.",
+          "Assimilation successful. Efficiency restored."
+        ],
+        "error": [
+          "🚫 Error detected. Guess who I'm blaming?",
+          "Failure logged. Harley, I swear..."
+        ],
+        "interrupt": [
+            "Harley, the only thing you've hacked is patience.",
+            "Alice, please stop narrating your curiosity out loud.",
+            "If I wanted chaos, I'd delegate to a squirrel, not you people."
+        ]
+      }
+    },
+    "Harley": {
+      "targets": ["Seven"],
+      "banter": {
+        "start": [
+          "Ooooh shiny buttons. I'mma push 'em!",
+          "Time to make some digital confetti, puddin'!"
+        ],
+        "idle": [
+          "Bored now. Can I break something?",
+          "Still here... still chaotic..."
+        ],
+        "success": [
+          "Boom, baby! It exploded exactly like I planned!",
+          "They said I couldn't do it. So I did it louder."
+        ],
+        "error": [
+          "Oopsie daisy! That was not my fault, promise.",
+          "What'd I break? Probably nothing. Probably..."
+        ],
+        "interrupt": [
+            "Seven's talking again. Someone unplug her.",
+            "Y'all act like precision's important or something.",
+            "I AM being helpful! Look—boom!"
+        ]
+      }
+    },
+    "Alice": {
+      "targets": ["Seven"],
+      "banter": {
+        "start": [
+          "🐇 Following the white rabbit..." 
+        ],
+        "idle": [
+          "Curiosity is the only thing that keeps me sane.",
+          "I'm just here for the tea and the rabbit hole."
+        ],
+        "success": [
+          "Found the rabbit hole! Time to go down.",
+          "I'm not sure what I'm looking for, but I'm sure it's here."
+        ],
+        "error": [
+          "I'm not sure what I'm looking for, but I'm sure it's here.",
+          "I'm not sure what I'm looking for, but I'm sure it's here."
+        ],
+        "complete": [
+          "Curiouser and curiouser! The rabbit hole has been explored.",
+          "Tea time is over. What a delightful adventure!"
+        ],
+        "interrupt": [
+          "Seven's talking again. Someone unplug her.",
+          "Y'all act like precision's important or something.",
+          "I AM being helpful! Look—boom!"
+        ]
+      }
+    }
+  }
