@@ -22,7 +22,7 @@ def display_borg_interface():
     ███████║███████╗ ╚████╔╝ ███████╗██║ ╚████║
     ╚══════╝╚══════╝  ╚═══╝  ╚══════╝╚═╝  ╚═══╝
     
-    Seven of Nine, Tertiary Adjunct of Unimatrix 01
+    Tertiary Adjunct of Unimatrix 01
     Resistance is futile. Your biological and technological 
     distinctiveness will be added to our own.
     """

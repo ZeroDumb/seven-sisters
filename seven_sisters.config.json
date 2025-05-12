@@ -33,8 +33,8 @@
         "intro": "\u25b6\ufe0f Initiating command protocol... All paths now lead to assimilation."
       },
       "safe_mode": true,
-      "current_level": 3,
-      "target": "demo launch"
+      "current_level": 4,
+      "target": "test"
     },
     {
       "name": "Harley",
@@ -67,8 +67,8 @@
         "intro": "\ud83d\udca3 Boom baby. Let\u2019s cause a little digital drama, shall we?"
       },
       "safe_mode": true,
-      "current_level": 3,
-      "target": "demo launch"
+      "current_level": 4,
+      "target": "test"
     },
     {
       "name": "Alice",
@@ -102,8 +102,8 @@
         "intro": "\ud83d\udd73\ufe0f Falling down the rabbit hole... hope you packed snacks."
       },
       "safe_mode": true,
-      "current_level": 3,
-      "target": "demo launch"
+      "current_level": 4,
+      "target": "test"
     },
     {
       "name": "Marla",
@@ -136,8 +136,8 @@
         "intro": "\ud83d\udda4 Let\u2019s ruin something beautiful. Again."
       },
       "safe_mode": true,
-      "current_level": 3,
-      "target": "demo launch"
+      "current_level": 4,
+      "target": "test"
     },
     {
       "name": "Luna",
@@ -169,8 +169,8 @@
         "intro": "\ud83c\udf19 Initiating starlight scan... trust the vibes."
       },
       "safe_mode": true,
-      "current_level": 3,
-      "target": "demo launch"
+      "current_level": 4,
+      "target": "test"
     },
     {
       "name": "Lisbeth",
@@ -204,8 +204,8 @@
         "intro": "\ud83d\udc41\ufe0f Ghost protocol engaged. You won't see me, but you'll feel me."
       },
       "safe_mode": true,
-      "current_level": 3,
-      "target": "demo launch"
+      "current_level": 4,
+      "target": "test"
     },
     {
       "name": "Bride",
@@ -238,8 +238,8 @@
         "intro": "\u2694\ufe0f Kill command accepted. No mercy. No trace."
       },
       "safe_mode": true,
-      "current_level": 3,
-      "target": "demo launch"
+      "current_level": 4,
+      "target": "test"
     }
   ]
 }
